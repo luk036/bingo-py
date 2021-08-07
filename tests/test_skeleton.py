@@ -1,6 +1,6 @@
 import pytest
 
-from bingo_py.skeleton import fib, main
+from bingo.skeleton import fib, main
 
 __author__ = "Wai-Shing Luk"
 __copyright__ = "Wai-Shing Luk"
